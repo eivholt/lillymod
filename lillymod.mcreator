@@ -1,0 +1,52 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "KattenPainting",
+      "type": "painting",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "katten_painting"
+    },
+    {
+      "name": "TomatoeSoup",
+      "type": "food",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tomatoe_soup"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.lillymod.tomatoe_soup": "Tomatoe Soup"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "lillymod",
+    "modName": "Lillymod",
+    "version": "1.0.0",
+    "author": "Eivind, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "modElementsPackage": "net.mcreator.lillymod",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100236710
+}
