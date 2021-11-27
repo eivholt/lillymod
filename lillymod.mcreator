@@ -27,12 +27,22 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "spoon"
+    },
+    {
+      "name": "Nerf",
+      "type": "rangeditem",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "nerf"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
+      "item.lillymod.nerf": "Nerf",
       "item.lillymod.spoon": "Spoon",
       "item.lillymod.tomatoe_soup": "Tomatoe Soup"
     }
