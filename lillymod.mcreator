@@ -18,12 +18,22 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "tomatoe_soup"
+    },
+    {
+      "name": "Spoon",
+      "type": "item",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "spoon"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
+      "item.lillymod.spoon": "Spoon",
       "item.lillymod.tomatoe_soup": "Tomatoe Soup"
     }
   },
